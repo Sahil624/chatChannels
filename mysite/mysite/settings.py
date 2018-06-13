@@ -26,7 +26,9 @@ SECRET_KEY = '$4sj(da(jx5q_3hf_=(uvbv=6730or=_+(snnyb$c0e=ao6c#-'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-        'chatchannels-sahil624.c9users.io'
+        'chatchannels-sahil624.c9users.io',
+        'localhost',
+        '127.0.0.1'
     ]
 
 
